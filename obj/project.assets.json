@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahonry Munoz\\OneDrive\\Desktop\\BYU\\Programming with Functions\\Scripture Memorizer\\Scripture-Memorizer\\Scripture-Memorizer.csproj",
+      "projectUniqueName": "C:\\Users\\Mahonry Munoz\\OneDrive\\Desktop\\BYU\\Programming with Functions\\Scripture Memorizer\\Scripture-Memorizer\\CSE210\\Scripture-Memorizer.csproj",
       "projectName": "Scripture-Memorizer",
-      "projectPath": "C:\\Users\\Mahonry Munoz\\OneDrive\\Desktop\\BYU\\Programming with Functions\\Scripture Memorizer\\Scripture-Memorizer\\Scripture-Memorizer.csproj",
+      "projectPath": "C:\\Users\\Mahonry Munoz\\OneDrive\\Desktop\\BYU\\Programming with Functions\\Scripture Memorizer\\Scripture-Memorizer\\CSE210\\Scripture-Memorizer.csproj",
       "packagesPath": "C:\\Users\\Mahonry Munoz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahonry Munoz\\OneDrive\\Desktop\\BYU\\Programming with Functions\\Scripture Memorizer\\Scripture-Memorizer\\obj\\",
+      "outputPath": "C:\\Users\\Mahonry Munoz\\OneDrive\\Desktop\\BYU\\Programming with Functions\\Scripture Memorizer\\Scripture-Memorizer\\CSE210\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahonry Munoz\\AppData\\Roaming\\NuGet\\NuGet.Config"
